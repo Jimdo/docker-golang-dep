@@ -6,6 +6,8 @@
 
  * `golang:1.10`
  * `github.com/golang/dep/`
+ * `Docker version 18.03.0-ce, build 0520e24`
+
 
 ### Usage
 
