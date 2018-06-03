@@ -6,6 +6,7 @@
 
  * `golang:1.10`
  * `github.com/golang/dep/`
+ * `github.com/mattn/goveralls`
  * `Docker version 18.03.0-ce, build 0520e24`
 
 
