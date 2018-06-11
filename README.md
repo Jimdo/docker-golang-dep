@@ -8,6 +8,7 @@
  * `github.com/golang/dep`
  * `github.com/mattn/goveralls`
  * `golang.org/x/lint/golint`
+ * `github.com/github/hub/`
  * `Docker 18.03.0-ce, build 0520e24`
 
 
