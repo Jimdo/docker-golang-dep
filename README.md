@@ -9,6 +9,8 @@
  * `github.com/mattn/goveralls`
  * `golang.org/x/lint/golint`
  * `github.com/github/hub/`
+ * `github.com/onsi/ginkgo/ginkgo`
+ * `github.com/onsi/gomega`
  * `Docker 18.03.0-ce, build 0520e24`
 
 
