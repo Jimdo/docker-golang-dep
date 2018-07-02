@@ -1,6 +1,6 @@
 # docker-golang-dep
 
-Docker image with useful basics for `Go` projects.
+> Docker image with useful basics for `Go` projects.
 
 ### Components
 
