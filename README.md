@@ -5,7 +5,7 @@ Docker image with useful basics for `Go` projects.
 ### Components
 
  * `golang:1.10`
- * `Docker 18.03.0-ce, build 0520e24`
+ * `Docker 18.03.1-ce`
  * `Code Climate Test Reporter 0.6.0`
 
 #### Packages
