@@ -1,18 +1,21 @@
 # docker-golang-dep
 
-[![Docker Stars](https://img.shields.io/docker/stars/jimdo/golang-dep.svg?maxAge=600)](https://hub.docker.com/r/jimdo/golang-dep/) [![Docker Pulls](https://img.shields.io/docker/pulls/jimdo/golang-dep.svg?maxAge=600)](https://hub.docker.com/r/jimdo/golang-dep/)
+Docker image with useful basics for `Go` projects.
 
 ### Components
 
  * `golang:1.10`
+ * `Docker 18.03.0-ce, build 0520e24`
+ * `Code Climate Test Reporter 0.6.0`
+
+#### Packages
+ 
+ * `github.com/github/hub/`
  * `github.com/golang/dep`
  * `github.com/mattn/goveralls`
- * `golang.org/x/lint/golint`
- * `github.com/github/hub/`
  * `github.com/onsi/ginkgo/ginkgo`
  * `github.com/onsi/gomega`
- * `Docker 18.03.0-ce, build 0520e24`
-
+ * `golang.org/x/lint/golint`
 
 ### Usage
 
