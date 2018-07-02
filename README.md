@@ -10,7 +10,7 @@
 
 #### Packages
  
- * `github.com/github/hub/`
+ * `github.com/github/hub`
  * `github.com/golang/dep`
  * `github.com/mattn/goveralls`
  * `github.com/onsi/ginkgo/ginkgo`
