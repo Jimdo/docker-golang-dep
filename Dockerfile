@@ -12,3 +12,7 @@ RUN wget -q -P /tmp https://download.docker.com/linux/static/stable/x86_64/docke
     && tar -xz -C /tmp -f /tmp/docker-$DOCKER_VERSION.tgz \
     && mv /tmp/docker/docker /usr/bin \
     && rm -rf /tmp/docker /tmp/docker-$DOCKER_VERSION.tgz
+
+RUN wget -q -P /tmp https://codeclimate.com/downloads/test-reporter/test-reporter-latest-linux-amd64 \
+    && mv /tmp/test-reporter-latest-linux-amd64 /usr/bin/codeclimate \
+    && chmod +x /usr/bin/codeclimate
