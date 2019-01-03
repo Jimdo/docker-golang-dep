@@ -1,4 +1,6 @@
-FROM golang:1.10
+FROM golang:1.10-alpine
+
+RUN apk add git
 
 ENV DOCKER_VERSION "18.03.1-ce"
 RUN wget -q -P /tmp https://download.docker.com/linux/static/stable/x86_64/docker-$DOCKER_VERSION.tgz \
